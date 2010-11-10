@@ -1,0 +1,12 @@
+daemonchk.js - Daemon Monitoring/Checking tool
+------------------------------------------------
+
+This tool will check a list of daemons (services) running on a server. The results are shown through a webpage user interface.
+
+Green boxes show that the service is up and responding, while yellow boxes show that there was an error.
+
+The name of the daemon will only be reported if there was an error.
+
+The code can be fit into your server monitoring page with little effort.
+
+daemonchk.js is released under the MIT license.
