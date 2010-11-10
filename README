@@ -1,7 +1,7 @@
 daemonchk.js - Daemon Monitoring/Checking tool
 ------------------------------------------------
 
-<a href="http://joshdulac.com/index.php/check-daemons-with-daemonchk-js/">SCREENSHOTS</a>
+SCREENSHOTS: http://joshdulac.com/index.php/check-daemons-with-daemonchk-js/
 
 This tool will check a list of daemons (services) running on a server. The results are shown through a webpage user interface.
 
