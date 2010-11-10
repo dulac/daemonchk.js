@@ -1,7 +1,8 @@
 var net = require('net');
 var http = require('http');
 var fs = require('fs');
-var address = '72.29.95.12';
+
+var address = '127.0.0.1';
 var daemons = []; // our array of services
 
 // the Daemon object holds service name and port
